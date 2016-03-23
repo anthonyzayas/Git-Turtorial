@@ -1,3 +1,7 @@
-java, c++, C#, python
+java - average
+c++
+C#
+python
 hello
 yes
+congrats
